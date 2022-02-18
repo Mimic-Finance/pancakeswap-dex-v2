@@ -1,0 +1,27 @@
+[debug] [2022-02-04T13:28:47.117Z] ----------------------------------------------------------------------
+[debug] [2022-02-04T13:28:47.118Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\PUNNAWICHSILPKITCHAR\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-02-04T13:28:47.119Z] CLI Version:   10.1.4
+[debug] [2022-02-04T13:28:47.119Z] Platform:      win32
+[debug] [2022-02-04T13:28:47.119Z] Node Version:  v16.13.2
+[debug] [2022-02-04T13:28:47.122Z] Time:          Fri Feb 04 2022 20:28:47 GMT+0700 (Indochina Time)
+[debug] [2022-02-04T13:28:47.122Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-02-04T13:28:47.130Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-02-04T13:28:47.130Z] > authorizing via signed-in user (poonawitch@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\PUNNAWICHSILPKITCHAR\Desktop\pcs1\pancake-swap-testnet\pancake-swap-interface-v1
+
+[debug] [2022-02-04T13:42:11.010Z] Error: kill ENOSYS
+    at process.kill (node:internal/process/per_thread:215:13)
+    at process.listener (C:\Users\PUNNAWICHSILPKITCHAR\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\signal-exit\index.js:95:15)
+    at process.emit (node:events:390:28)
+[error] 
+[error] Error: An unexpected error has occurred.
